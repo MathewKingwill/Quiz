@@ -93,7 +93,7 @@
         question: "What is the nickname of West Bromwich Albion F.C.?",
         answers: ["The Owls",
         "The Baggies",
-        "The Toffes",
+        "The Toffies",
         "The Brom"],
         correctAnswer:1
       },
